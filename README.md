@@ -1,5 +1,5 @@
 <br clear="both">
 
-![Minha Imagem](banner-minimalista.png)
+![Minha Imagem](LOGOMARCA (5).png)
 
 ###
