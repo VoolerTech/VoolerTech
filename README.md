@@ -6,13 +6,12 @@
 
 <!-- Presentation -->
 <p>
-  Olá 👋, eu sou Renan! Um estudante apaixonado por Programação e Web Design.
 
-  - 🌱 Atualmente estou fazendo um curso Técnico de Desenvolvimento de Sistemas (1 ano e meio)
+  - 🌱 
 
-  - 🔭 Estou procurando minha primeira oportunidade de emprego.
+  - 🔭 
 
-  - 💻 [Portfólio - Renan Mercês Dev](https://renan-merces-portfolio.netlify.app/)
+  - 💻 
 </p>
 
 ##
@@ -20,10 +19,9 @@
 <details>
   <summary>👨‍💻 Mais sobre mim:</summary>
 
-  - 💬 Tenho 18 anos, atualmente moro no Brasil na Bahia. Tenho experiência com JavaScript, SQL, PHP, e ferramentas para Web Design como FIGMA, Boostrap e um pouco de Wordpress. Também faço curso técnico de Desenvolvimento de Sistemas, o que me ajudou a desenvolver habilidades importantes na programação, como criatividade, comunicação, capacidade analítica, entre outros.
+  - 💬 
 
-  - ⚡ Gosto de ler mangá ou quadrinhos, assim como assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e para a resolução de problemas.
-</details>
+  - ⚡
 
 ##
 
