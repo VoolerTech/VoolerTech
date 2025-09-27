@@ -1,5 +1,5 @@
 <br clear="both">
 
-![Minha Imagem](voolermarca.png)
+![Minha Imagem](bannertech.png)
 
 ###
